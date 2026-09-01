@@ -7,7 +7,7 @@ I'm a Computer Science & Engineering student, currently focused on AI
 and automation, with a front-end foundation in HTML, CSS, and
 JavaScript. Somewhere along the way I also picked up Unity and C# well
 enough to design and ship a full VR simulation that placed first in a
-game development contest - proof, to me, that finishing something
+game development contest, to me, that finishing something
 end-to-end teaches more than any tutorial does.
 
 Outside of writing code, I manage partnerships for a growing startup,
